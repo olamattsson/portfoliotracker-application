@@ -9,13 +9,6 @@
         <version>0.0.1-SNAPSHOT</version>
         <relativePath>../portfoliotracker-parent</relativePath>
     </parent>
-    <groupId>com.olamattsson</groupId>
     <artifactId>portfoliotracker-application</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-
-    <properties>
-        <maven.compiler.source>15</maven.compiler.source>
-        <maven.compiler.target>15</maven.compiler.target>
-    </properties>
-
 </project>
